@@ -2,7 +2,7 @@
     background-color: aqua;
 }
 .table th {
-background-color: greenyellow;
+background-color: pink;
 }
 .table td {
 background-color:cornsilk ;
@@ -32,7 +32,7 @@ background-color:cornsilk ;
       }
       
     .btn-toolbar {
-      background-color: greenyellow; 
+      background-color: pink; 
       border: 1px solid black; 
       padding: 10px 20px; 
       cursor: pointer; 
@@ -49,7 +49,7 @@ background-color:cornsilk ;
       float:unset; 
     }
     .btn-primary {
-      background-color: green; 
+      background-color: aqua; 
       border: 1px solid black; 
       padding: 20px 34px; 
       cursor: pointer; 
